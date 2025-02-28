@@ -12,7 +12,7 @@ You can link your domain to your Discord connections and showcase it on your pro
 
 3. **Add Your Domain:**
    - Select the **Domain** option.  
-   - Enter your GitHub Pages domain name (e.g., `https://<your-github-username>.github.io`).
+   - Enter your GitHub Pages domain name (e.g., `https://github.com/SauravhXyzz/Sauravh-Xyzz.github.io`).
 
 4. **Choose HTTPS Verification:**
    - Click on **Next**, then choose **Verify using HTTPS**.
