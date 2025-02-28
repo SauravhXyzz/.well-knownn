@@ -39,4 +39,4 @@ You can link your domain to your Discord connections and showcase it on your pro
 
 ---
 
-If this guide was helpful, please consider starring the [repository](https://github.com/harry-exe/.well-known). Thank you!
+If this guide was helpful, please consider starring the [repository](https://github.com/SauravhXyzz/.well-knownn). Thank you!
