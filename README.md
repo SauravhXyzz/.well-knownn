@@ -21,7 +21,7 @@ You can link your domain to your Discord connections and showcase it on your pro
    - Discord will provide a string, e.g., `dh=123456abc`. Copy this value.
 
 6. **Fork the Verification Repository:**
-   - Go to the [`.well-knownn` repository](https://github.com/harry-exe/.well-knownn/fork) and fork it.  
+   - Go to the [`.well-knownn` repository](https://github.com/harry-exe/.well-known/fork) and fork it.  
    *(You can also create a new repository, but ensure it is named `.well-known`.)*
 
 7. **Edit the `discord` File:**
